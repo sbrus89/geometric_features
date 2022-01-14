@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Greenland Sea",
-                "tags": "Greenland_Sea;Arctic;Atlantic_Basin",
+                "tags": "Greenland_Sea;Arctic;Atlantic_Basin;Arctic_NSIDC",
                 "object": "region",
                 "component": "ocean",
                 "author": "Milena Veneziani"

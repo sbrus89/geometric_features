@@ -5,7 +5,7 @@
             "type": "Feature", 
             "properties": {
                 "name": "Bering Sea", 
-                "tags": "Bering_Sea;Pacific_Basin", 
+                "tags": "Bering_Sea;Pacific_Basin;Arctic_NSIDC", 
                 "object": "region", 
                 "component": "ocean", 
                 "author": "http://www.marineregions.org/downloads.php#iho"

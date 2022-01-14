@@ -1015,7 +1015,8 @@
       ],
       "Bering Sea": [
         "Bering_Sea",
-        "Pacific_Basin"
+        "Pacific_Basin",
+        "Arctic_NSIDC"
       ],
       "Bismarck Sea": [
         "Bismarck_Sea",
@@ -1166,6 +1167,7 @@
       "Greenland Sea": [
         "Greenland_Sea",
         "Arctic",
+        "Arctic_NSIDC",
         "Atlantic_Basin"
       ],
       "Gulf of Aden": [
